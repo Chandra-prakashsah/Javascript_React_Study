@@ -1,0 +1,126 @@
+Basic of javascrit should know before learn React
+    1.variables
+      -let
+      -var
+      -const
+
+    2.Hosting of variables
+    3.Functions
+        -Arrow Functions
+        -Higher order Functions
+    
+    4.Arrays and Objects
+        -Array Destructuring
+        -Object Destructuring
+        -rest opertor
+        -spread opertor
+    5.condition in javascrit
+        -if else
+        -ternary operator
+        -using && and ||
+        -optional chaning
+    6.Event listener
+        -onClick
+        -onBlur
+        -onChange
+        -onFocus
+        -Event bubbling && event capturing
+    7.setTimeout() && setInterval()
+    8.Asychronous events
+     -callback
+     -callback hell
+     -Promises
+     -Promise APIs
+    9.async and await
+    10.try/catch
+
+
+   * Why React?
+     -Reusability
+     -Reactivity
+     -comprehnsive or redable
+     -modularity(component/block/unit)
+     -declarative(with help of jsx)
+
+    *What is state change
+        -
+
+React 
+ 1.Hooks
+   -useState
+   -useEffect
+   -useContext
+   -useReducer
+   -useMemo
+   -useCallback
+   -useRef
+
+ 2.Higher order components
+    -What
+    -How
+    -Why
+    -when to use
+ 3.Life cycle of components
+    -mounting, updating, unmounting
+        -class component
+        -functional component
+ 4.state management
+    -state/props
+    -props dealing
+    -context api
+
+ 5.Redux(Redux toolkit)/Zustand
+    -How
+    -Why
+    -when to use
+
+ 6.Custom hooks
+   -when to use
+   -How
+   -Why
+
+ 7.Lazy loading
+    -code splitting
+    -chunking 
+    -suspence
+
+ 8.Virtual DOM
+    -React fiber
+    -Reaconcilation
+    -Renders
+    -diffing algorithms
+    -how the renders works
+
+ 9.ssr(server side rendering) && csr(client side rendering )
+    -What
+    -difference between ssr and csr
+    -seo (search engine optimization)
+
+10.routing(rbac - role based access control)
+    -how to handle routes
+    -protected routes
+    -dynamic routes
+
+11.Testing
+12.Async task
+    -API call
+    -events
+    -promises
+
+13.Reusability/modularity/testability/redability
+14.performance
+    -simmer ui 
+    -lazy loading
+    -assets(images)
+    -js , css
+    -bundler
+    -cdn/server
+    -rendering of components(how many times it will be rendered)
+
+15.styling
+   -Talwind css
+   -Style x 
+   -React bootstrap/material ui
+   -css/scss
+
+16.accessibility
