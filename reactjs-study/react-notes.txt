@@ -12,8 +12,8 @@ Basic of javascrit should know before learn React
     4.Arrays and Objects
         -Array Destructuring
         -Object Destructuring
-        -rest opertor
-        -spread opertor
+        -rest operator
+        -spread operator
     5.condition in javascrit
         -if else
         -ternary operator
